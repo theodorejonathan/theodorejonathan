@@ -1,4 +1,11 @@
-### Hi there 👋
+Theodore Maximillan Jonathan
+13219021 (ITB EL19)
+
+Halo semua!
+Perkenalkan, aku TJ, mahasiswa Teknik Elektro ITB 2019. Aku orang yang cukup ambisius dan suka tidur dan juga hafal yel-yel mentor. Aku lagi tertarik belajar web development hehehe.
+
+Get to know me more!
+Linkedin: gg.gg/LinkedinTJ
 
 <!--
 **theodorejonathan/theodorejonathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
